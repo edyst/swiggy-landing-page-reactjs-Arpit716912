@@ -1,0 +1,22 @@
+const arr = ["Abohar",
+    "Adilabad",
+    "Adityapur",
+    "Adoni",
+    "Agartala",
+    "Dausa",
+    "Davanagere",
+    "Dehradun",
+    "Dehri",
+    "Delhi",
+    "Kishanganj",
+    "Kishangarh",
+    "Kochi",
+    "Kodaikanal",
+    "Kolar",
+    "Pudukkottai",
+    "Pune",
+    "Puri",
+    "Purnea",
+    "Purulia"]
+
+export default arr;
